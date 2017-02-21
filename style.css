@@ -1,0 +1,51 @@
+.title{
+    text-align: center;
+}
+
+.borderStyle{
+    border-style: groove;
+    border-radius: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 40px;
+    margin-bottom: 15px;
+}
+
+.divInline{
+    display: inline;
+}
+
+.floatLeft{
+    float: left;
+    width: 33%;
+}
+
+.clear{
+    clear: both;
+}
+
+.inputStyle{
+    border-radius: 5px;
+    height: 25px;
+}
+
+.wholeBorder{
+    border-style: groove;
+    border-radius: 25px;
+    margin-bottom: 15px;
+    background-color: darkgray;
+}
+
+
+.contentStyle {
+    border-top-style: groove;
+    background-color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    margin-bottom: 1px;
+}
+
+.captionStyle{
+    padding-left: 20px;
+}
